@@ -14,5 +14,10 @@
 
 ---
 
+### Interest
+- sketching
+- esports
+- athlete
+
 ### 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/parnav-yadav-255003382

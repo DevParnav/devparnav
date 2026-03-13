@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Parnav
 
-<!--
-**DevParnav/devparnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE student specializing in AI & Data Science  
+🚀 Building AI tools, web apps, and experimenting with new technologies  
+⚡ Passionate about turning ideas into real-world applications through code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I'm Exploring
+- AI Tools
+- Web Development
+- Automation
+- Prompt Engineering
+
+---
+
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/parnav-yadav-255003382

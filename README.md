@@ -4,10 +4,6 @@
 
 ### B.Tech CSE (AI & Data Science) @ JECRC University, Jaipur
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devparnav.github.io/Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parnav-yadav-255003382)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parnavyadav002@gmail.com)
-
 </div>
 
 ---

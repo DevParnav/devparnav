@@ -107,47 +107,6 @@ Modern Responsive Portfolio
 
 </p>
 
----
-
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DevParnav&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-<h2>📈 Contribution Graph</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevParnav&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-<h2>🎯 2026 Goals</h2>
-
-<ul>
-
-<li>🚀 Master Data Structures & Algorithms</li>
-
-<li>🌍 Build Production-Level Projects</li>
-
-<li>🤝 Contribute to Open Source</li>
-
-<li>💼 Secure a Software Engineering Internship</li>
-
-<li>🤖 Build AI-powered Applications</li>
-
-<li>📚 Learn System Design</li>
-
-</ul>
-
----
 
 <h2>🌐 Connect With Me</h2>
 

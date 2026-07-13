@@ -4,3 +4,6 @@
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=DevParnav&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
